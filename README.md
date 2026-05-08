@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="mailto:harikrishnabhuvaneshwari@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" /></a>
-  <a href="https://github.com/aeg0n-targaryen"><img src="https://img.shields.io/badge/GitHub-aeg0n--targaryen-181717?style=flat&logo=github" /></a>
 </p>
 
 ---
