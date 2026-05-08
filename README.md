@@ -45,10 +45,3 @@ I build resilient backend platforms for fintech and payments with a strong focus
 - AI/MCP-enabled engineering productivity workflows
 
 ---
-
-## GitHub Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aeg0n-targaryen&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeg0n-targaryen&layout=compact&hide_border=true" />
-</p>
-
